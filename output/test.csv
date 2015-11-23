@@ -1,0 +1,525 @@
+Eclipse lm model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "0.393914017244485" "0.458027094692036"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.392375050429193" "0.447802904742145"
+
+"1" "change-metrics.csv" "linesAddedUntil." "0.492612633963991" "0.395435757489535"
+"1" "change-metrics.csv" "numberOfVersionsUntil." "0.447962573423038" "0.394054918280159"
+"1" "change-metrics.csv" "linesRemovedUntil." "0.5071586457821" "0.385514854451357"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.510756439845907" "0.352773879244811"
+"1" "change-metrics.csv" "maxCodeChurnUntil." "0.529733891034338" "0.355588064891578"
+
+"1" "single-version-ck-oo.csv" "wmc" "0.463209480685986" "0.405108066661636"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "0.46612476316354" "0.395756453551937"
+"1" "single-version-ck-oo.csv" "fanOut" "0.472306590895689" "0.368297344902715"
+"1" "single-version-ck-oo.csv" "rfc" "0.467614350276472" "0.372152333396921"
+"1" "single-version-ck-oo.csv" "cbo" "0.481631425827128" "0.341229395678632"
+
+Eclipse rpart model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "0.432464571965507" "0.484613496183311"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.433321271267133" "0.471101578718482"
+
+"1" "change-metrics.csv" "linesAddedUntil." "0.439531312799115" "0.462203416200392"
+"1" "change-metrics.csv" "numberOfVersionsUntil." "0.453511298170781" "0.468072877269792"
+"1" "change-metrics.csv" "linesRemovedUntil." "0.447999361196951" "0.433319161460639"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.490998954162825" "0.385992800871161"
+"1" "change-metrics.csv" "maxCodeChurnUntil." "0.505828042067207" "0.34445027386245"
+
+"1" "single-version-ck-oo.csv" "wmc" "0.446795185072592" "0.449825175226762"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "0.443339970565666" "0.454625495839831"
+"1" "single-version-ck-oo.csv" "fanOut" "0.470697837958448" "0.418664186305843"
+"1" "single-version-ck-oo.csv" "rfc" "0.450231137226945" "0.454409984589829"
+"1" "single-version-ck-oo.csv" "cbo" "0.473832849709517" "0.410970946060505"
+
+Eclipse nb model
+
+Eclipse glm.nb model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "1.82736790062146" "0.458027094692036"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "1.83044025356908" "0.447802904742145"
+
+"1" "change-metrics.csv" "linesAddedUntil." "1.71179389987437" "0.395435757489535"
+"1" "change-metrics.csv" "numberOfVersionsUntil." "1.82409527534516" "0.394054918280159"
+"1" "change-metrics.csv" "linesRemovedUntil." "1.68935661555403" "0.385514854451357"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "1.70744294413437" "0.352773879244811"
+"1" "change-metrics.csv" "maxCodeChurnUntil." "1.64649822718958" "0.355588064891578"
+
+"1" "single-version-ck-oo.csv" "wmc" "1.83075578355211" "0.405108066661636"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "1.7983002869236" "0.395756453551937"
+"1" "single-version-ck-oo.csv" "fanOut" "1.85041728479564" "0.368297344902715"
+"1" "single-version-ck-oo.csv" "rfc" "1.79014384062076" "0.372152333396921"
+"1" "single-version-ck-oo.csv" "cbo" "1.74169200253426" "0.341229395678632"
+
+equinox rpart model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "0.63722654324967" "0.585524948380268"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.660552969898891" "0.578291661493789"
+
+"1" "change-metrics.csv" "numberOfVersionsUntil." "0.648322698191507" "0.565608411452257"
+"1" "change-metrics.csv" "linesAddedUntil." "0.736695143287307" "0.558228493504115"
+"1" "change-metrics.csv" "linesRemovedUntil." "0.758781226187461" "0.53564113431625"
+"1" "change-metrics.csv" "maxLinesRemovedUntil." "0.834777685502201" "0.489790113899835"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.792791383787213" "0.493693319813067"
+
+"1" "single-version-ck-oo.csv" "cbo" "0.701538831765068" "0.514726836998802"
+"1" "single-version-ck-oo.csv" "lcom" "0.721508450817191" "0.53645578663268"
+"1" "single-version-ck-oo.csv" "wmc" "0.695874313647003" "0.508147845430424"
+"1" "single-version-ck-oo.csv" "numberOfMethods" "0.722267961056979" "0.537377182452151"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "0.741430012344329" "0.487920854766925"
+
+equinox lm model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "0.712372781854961" "0.600115767116303"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.716290437325206" "0.593543649539038"
+
+"1" "change-metrics.csv" "numberOfVersionsUntil." "0.638048012126786" "0.626132810586959"
+"1" "change-metrics.csv" "linesAddedUntil." "0.737609296015217" "0.602218680160728"
+"1" "change-metrics.csv" "linesRemovedUntil." "0.766260097657993" "0.60530850681924"
+"1" "change-metrics.csv" "maxLinesRemovedUntil." "0.851218137504009" "0.577447393088134"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.819066106495961" "0.54403062269921"
+
+"1" "single-version-ck-oo.csv" "cbo" "0.658048148419519" "0.562286131709894"
+"1" "single-version-ck-oo.csv" "lcom" "0.772441279834134" "0.558900179735775"
+"1" "single-version-ck-oo.csv" "wmc" "0.713014426872976" "0.568592815801155"
+"1" "single-version-ck-oo.csv" "numberOfMethods" "0.671866132093429" "0.555106720475128"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "0.722437622798631" "0.550888493346066"
+
+equinox glm.nb model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "1.34930844306846" "0.600115767116303"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "1.34367907805975" "0.593543649539038"
+
+"1" "change-metrics.csv" "numberOfVersionsUntil." "1.38884555197505" "0.626132810586959"
+"1" "change-metrics.csv" "linesAddedUntil." "1.36331458753272" "0.602218680160728"
+"1" "change-metrics.csv" "linesRemovedUntil." "1.3206447658752" "0.60530850681924"
+"1" "change-metrics.csv" "maxLinesRemovedUntil." "1.26223156551807" "0.577447393088134"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "1.26884798894664" "0.54403062269921"
+
+"1" "single-version-ck-oo.csv" "cbo" "1.471329473485" "0.562286131709894"
+"1" "single-version-ck-oo.csv" "lcom" "1.31189714507708" "0.558900179735775"
+"1" "single-version-ck-oo.csv" "wmc" "1.38018408158621" "0.568592815801155"
+"1" "single-version-ck-oo.csv" "numberOfMethods" "1.414293966253" "0.555106720475128"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "1.36499127389882" "0.550888493346066"
+
+lucene lm model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "0.199454507497478" "0.313005800170216"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.199454507497478" "0.313005800170216"
+
+"1" "change-metrics.csv" "maxCodeChurnUntil." "0.190762077949746" "0.24878628495518"
+"1" "change-metrics.csv" "linesAddedUntil." "0.179907049097353" "0.242002379253181"
+"1" "change-metrics.csv" "numberOfVersionsUntil." "0.202855789121574" "0.24608787384639"
+"1" "change-metrics.csv" "linesRemovedUntil." "0.194659007452984" "0.241727659124546"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.206181306465736" "0.23310119105513"
+
+"1" "single-version-ck-oo.csv" "numberOfAttributes" "0.231454794810578" "0.164550783655458"
+"1" "single-version-ck-oo.csv" "cbo" "0.23206255876465" "0.142809253544658"
+"1" "single-version-ck-oo.csv" "lcom" "0.219868409995671" "0.123970925053157"
+"1" "single-version-ck-oo.csv" "numberOfMethods" "0.243431423376572" "0.1239695080633"
+"1" "single-version-ck-oo.csv" "fanIn" "0.238070221566341" "0.146500986678284"
+
+lucene rpart model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "0.186209966635127" "0.275326261706787"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.186209966635127" "0.275326261706787"
+
+"1" "change-metrics.csv" "maxCodeChurnUntil." "0.209045718522224" "0.32932685581278"
+"1" "change-metrics.csv" "linesAddedUntil." "0.195082883465224" "0.31441408972579"
+"1" "change-metrics.csv" "numberOfVersionsUntil." "0.203357060479313" "0.345362535640726"
+"1" "change-metrics.csv" "linesRemovedUntil." "0.211041158401219" "0.287227092923289"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.225206326016497" "0.259439029755939"
+
+"1" "single-version-ck-oo.csv" "numberOfAttributes" "0.255603887540045" NA
+"1" "single-version-ck-oo.csv" "cbo" "0.244001876017085" "0.182269323247894"
+"1" "single-version-ck-oo.csv" "lcom" "0.247178953388357" "0.0810236217880168"
+"1" "single-version-ck-oo.csv" "numberOfMethods" "0.247178953388357" "0.0810236217880168"
+"1" "single-version-ck-oo.csv" "fanIn" "0.256222069368687" "0.0495686843625785"
+
+lucene glm.nb model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "2.59359275920242" "0.313005800170216"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "2.59359275920242" "0.313005800170216"
+
+"1" "change-metrics.csv" "maxCodeChurnUntil." "2.5119897782494" "0.24878628495518"
+"1" "change-metrics.csv" "linesAddedUntil." "2.53207167153795" "0.242002379253181"
+"1" "change-metrics.csv" "numberOfVersionsUntil." "2.53039164905297" "0.24608787384639"
+"1" "change-metrics.csv" "linesRemovedUntil." "2.4813867091528" "0.241727659124546"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "2.44030685106195" "0.23310119105513"
+
+"1" "single-version-ck-oo.csv" "numberOfAttributes" "2.28836002895082" "0.164550783655458"
+"1" "single-version-ck-oo.csv" "cbo" "2.30706162164558" "0.142809253544658"
+"1" "single-version-ck-oo.csv" "lcom" "2.2384283441781" "0.123970925053157"
+"1" "single-version-ck-oo.csv" "numberOfMethods" "2.29763546186668" "0.1239695080633"
+"1" "single-version-ck-oo.csv" "fanIn" "2.23743377167299" "0.146500986678284"
+
+mylyn lm model
+
+"1" "bug-metrics.csv" "numberOfMajorBugsFoundUntil." "0.283826828693182" "0.206809578861197"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.274876731879091" "0.131727826374705"
+
+"1" "change-metrics.csv" "linesAddedUntil." "0.29132767291217" "0.140851336809007"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.307477853379618" "0.137860146800634"
+"1" "change-metrics.csv" "avgLinesAddedUntil." "0.310189203925813" "0.13672858426018"
+"1" "change-metrics.csv" "codeChurnUntil." "0.294381640681491" "0.134291804766407"
+"1" "change-metrics.csv" "maxCodeChurnUntil." "0.297711094361444" "0.1375960545583"
+
+"1" "single-version-ck-oo.csv" "numberOfPrivateMethods" "0.273320099354585" "0.296529860290996"
+"1" "single-version-ck-oo.csv" "fanOut" "0.258066392819092" "0.259481863123487"
+"1" "single-version-ck-oo.csv" "cbo" "0.290448027746316" "0.235995220758266"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "0.295995139378582" "0.223403001096099"
+"1" "single-version-ck-oo.csv" "rfc" "0.278513105039345" "0.225306554864523"
+
+mylyn rpart model
+
+"1" "bug-metrics.csv" "numberOfMajorBugsFoundUntil." "0.296301076463381" "0.176404929261194"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.289854957483517" "0.223259737952637"
+
+"1" "change-metrics.csv" "linesAddedUntil." "0.287387311893345" "0.249294567726427"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.302172979463628" "0.201502391396905"
+"1" "change-metrics.csv" "avgLinesAddedUntil." "0.303769611475516" "0.167504463071144"
+"1" "change-metrics.csv" "codeChurnUntil." "0.289866168888307" "0.229053250408752"
+"1" "change-metrics.csv" "maxCodeChurnUntil." "0.298427824840035" "0.212179936057481"
+
+"1" "single-version-ck-oo.csv" "numberOfPrivateMethods" "0.281959479235567" "0.296003078515278"
+"1" "single-version-ck-oo.csv" "fanOut" "0.278170409016532" "0.280329191473345"
+"1" "single-version-ck-oo.csv" "cbo" "0.292390476762061" "0.230371605236459"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "0.279328396199444" "0.269030570489727"
+"1" "single-version-ck-oo.csv" "rfc" "0.285396854807432" "0.253339913061167"
+
+mylyn glm.nb model
+
+"1" "bug-metrics.csv" "numberOfMajorBugsFoundUntil." "2.0110355735965" "0.206809578861197"
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "2.04345191725595" "0.131727826374705"
+
+"1" "change-metrics.csv" "linesAddedUntil." "2.04173907568171" "0.140851336809007"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "1.99617829727718" "0.137860146800634"
+"1" "change-metrics.csv" "avgLinesAddedUntil." "1.91327066990735" "0.13672858426018"
+"1" "change-metrics.csv" "codeChurnUntil." "2.03487298762465" "0.134291804766407"
+"1" "change-metrics.csv" "maxCodeChurnUntil." "2.01437527670446" "0.1375960545583"
+
+"1" "single-version-ck-oo.csv" "numberOfPrivateMethods" "2.06911456082112" "0.296529860290996"
+"1" "single-version-ck-oo.csv" "fanOut" "2.14260466572341" "0.259481863123487"
+"1" "single-version-ck-oo.csv" "cbo" "2.06045497081869" "0.235995220758266"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "2.08888610157951" "0.223403001096099"
+"1" "single-version-ck-oo.csv" "rfc" "2.07661145979747" "0.225306554864523"
+
+pde lm model
+
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.352902831159529" "0.304584364404066"
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "0.345892601632309" "0.285513753241058"
+
+"1" "change-metrics.csv" "linesAddedUntil." "0.333877100726473" "0.2603762142213"
+"1" "change-metrics.csv" "numberOfVersionsUntil." "0.371421941455383" "0.251617380913273"
+"1" "change-metrics.csv" "linesRemovedUntil." "0.349159706040467" "0.250486278542106"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.359362021966755" "0.239991459943489"
+"1" "change-metrics.csv" "maxLinesRemovedUntil." "0.3580653131747" "0.238191917090229"
+
+"1" "single-version-ck-oo.csv" "rfc" "0.351161877718309" "0.283168150965772"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "0.35471146053235" "0.278094670692118"
+"1" "single-version-ck-oo.csv" "fanOut" "0.358934211122295" "0.269318007405179"
+"1" "single-version-ck-oo.csv" "wmc" "0.359156164583737" "0.250609363333556"
+"1" "single-version-ck-oo.csv" "numberOfPrivateMethods" "0.367319791113839" "0.238586446268619"
+
+pde rpart model
+
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "0.338555714059153" "0.299118510871019"
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "0.342580080416447" "0.270417967928957"
+
+"1" "change-metrics.csv" "linesAddedUntil." "0.362623786679205" "0.244083141372676"
+"1" "change-metrics.csv" "numberOfVersionsUntil." "0.356273774714412" "0.250373564081888"
+"1" "change-metrics.csv" "linesRemovedUntil." "0.361770558879674" "0.240422181948265"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "0.374248097172259" "0.215909713791548"
+"1" "change-metrics.csv" "maxLinesRemovedUntil." "0.37312357281668" "0.240690430698223"
+
+"1" "single-version-ck-oo.csv" "rfc" "0.363360450087476" "0.207091561210558"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "0.357517668480266" "0.246419672374099"
+"1" "single-version-ck-oo.csv" "fanOut" "0.381515153102321" "0.192586118831977"
+"1" "single-version-ck-oo.csv" "wmc" "0.366023340290327" "0.201782103555983"
+"1" "single-version-ck-oo.csv" "numberOfPrivateMethods" "0.380750745253239" NA
+
+pde glm.nb model
+
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil." "2.08764887241083" "0.304584364404066"
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil." "2.05434808716831" "0.285513753241058"
+
+"1" "change-metrics.csv" "linesAddedUntil." "2.02824624854637" "0.2603762142213"
+"1" "change-metrics.csv" "numberOfVersionsUntil." "2.01421730042208" "0.251617380913273"
+"1" "change-metrics.csv" "linesRemovedUntil." "1.99225546811706" "0.250486278542106"
+"1" "change-metrics.csv" "maxLinesAddedUntil." "1.89524853869022" "0.239991459943489"
+"1" "change-metrics.csv" "maxLinesRemovedUntil." "1.95878542242078" "0.238191917090229"
+
+"1" "single-version-ck-oo.csv" "rfc" "1.88419673235125" "0.283168150965772"
+"1" "single-version-ck-oo.csv" "numberOfLinesOfCode" "1.88108950810862" "0.278094670692118"
+"1" "single-version-ck-oo.csv" "fanOut" "1.84594932329605" "0.269318007405179"
+"1" "single-version-ck-oo.csv" "wmc" "1.85850306995166" "0.250609363333556"
+"1" "single-version-ck-oo.csv" "numberOfPrivateMethods" "1.79674114587695" "0.238586446268619"
+
+pde glm.nb model
+
+eclipse top 2lm model
+
+eclipse top 2lm model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.393767743458507" "0.44828831635364"
+
+"1" "change-metrics.csv" "linesAddedUntil. + numberOfVersionsUntil." "0.441904463198016" "0.3961313243824"
+
+"1" "single-version-ck-oo.csv" "wmc + numberOfLinesOfCode" "0.465704163957366" "0.399345874959473"
+
+eclipse top 2lm model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.393767743458507" "0.44828831635364"
+
+"1" "change-metrics.csv" "linesAddedUntil. + numberOfVersionsUntil." "0.441904463198016" "0.3961313243824"
+
+"1" "single-version-ck-oo.csv" "wmc + numberOfLinesOfCode" "0.465704163957366" "0.399345874959473"
+
+equinox top 2lm model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.719624731640982" "0.591847287732876"
+
+"1" "change-metrics.csv" "numberOfVersionsUntil. + linesAddedUntil." "0.639654436038025" "0.629080598198638"
+
+"1" "single-version-ck-oo.csv" "cbo + lcom" "0.644691943827329" "0.570581753389709"
+
+lucene top 2lm model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.199454507497478" "0.313005800170216"
+
+"1" "change-metrics.csv" "maxCodeChurnUntil. + linesAddedUntil." "0.176842031097793" "0.243804940508363"
+
+"1" "single-version-ck-oo.csv" "numberOfAttributes + cbo" "0.234946831362421" "0.191855399258563"
+
+lucene top 2rpart model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.186209966635127" "0.275326261706787"
+
+"1" "change-metrics.csv" "maxCodeChurnUntil. + linesAddedUntil." "0.18986864317706" "0.333606288657872"
+
+"1" "single-version-ck-oo.csv" "numberOfAttributes + cbo" "0.23938715619622" "0.181082452238279"
+
+lucene top 2glm.nb model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "2.59359275920242" "0.313005800170216"
+
+"1" "change-metrics.csv" "maxCodeChurnUntil. + linesAddedUntil." "2.5690509560009" "0.242761697264758"
+
+"1" "single-version-ck-oo.csv" "numberOfAttributes + cbo" "2.36912458736194" "0.190806402837648"
+
+equinox top 2rpart model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.647482075490894" "0.583499350309751"
+
+"1" "change-metrics.csv" "numberOfVersionsUntil. + linesAddedUntil." "0.662304434461919" "0.579302665214997"
+
+"1" "single-version-ck-oo.csv" "cbo + lcom" "0.697684307777934" "0.521288661210105"
+
+equinox top 2glm.nb model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "1.35926861889781" "0.588922913277311"
+
+"1" "change-metrics.csv" "numberOfVersionsUntil. + linesAddedUntil." "1.41123506955403" "0.636558596920379"
+
+"1" "single-version-ck-oo.csv" "cbo + lcom" "1.47047556442625" "0.561459537985963"
+
+eclipse top 2rpart model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.428386127377417" "0.488625154425412"
+
+"1" "change-metrics.csv" "linesAddedUntil. + numberOfVersionsUntil." "0.452261741875566" "0.463110646599945"
+
+"1" "single-version-ck-oo.csv" "wmc + numberOfLinesOfCode" "0.446498422080794" "0.448131157178371"
+
+eclipse top 2glm.nb model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "1.83248931662235" "0.432177676111228"
+
+"1" "change-metrics.csv" "linesAddedUntil. + numberOfVersionsUntil." "1.83174273736685" "0.386585103675634"
+
+"1" "single-version-ck-oo.csv" "wmc + numberOfLinesOfCode" "1.84250460075641" "0.404940362299004"
+
+eclipse top 2rpart model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.428386127377417" "0.488625154425412"
+
+"1" "change-metrics.csv" "linesAddedUntil. + numberOfVersionsUntil." "0.452261741875566" "0.463110646599945"
+
+"1" "single-version-ck-oo.csv" "wmc + numberOfLinesOfCode" "0.446498422080794" "0.448131157178371"
+
+eclipse top 2glm.nb model
+
+"1" "bug-metrics.csv" "numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "1.83248931662235" "0.432177676111228"
+
+"1" "change-metrics.csv" "linesAddedUntil. + numberOfVersionsUntil." "1.83174273736685" "0.386585103675634"
+
+"1" "single-version-ck-oo.csv" "wmc + numberOfLinesOfCode" "1.84250460075641" "0.404940362299004"
+
+mylyn top 2lm model
+
+"1" "bug-metrics.csv" "numberOfMajorBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.275352434404051" "0.126614880953972"
+
+"1" "change-metrics.csv" "linesAddedUntil. + maxLinesAddedUntil." "0.286733774434378" "0.128093827505571"
+
+"1" "single-version-ck-oo.csv" "numberOfPrivateMethods + fanOut" "0.25467002134357" "0.275573760800164"
+
+mylyn top 2rpart model
+
+"1" "bug-metrics.csv" "numberOfMajorBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "0.290107980128579" "0.223177691954916"
+
+"1" "change-metrics.csv" "linesAddedUntil. + maxLinesAddedUntil." "0.284900370261997" "0.248870745194305"
+
+"1" "single-version-ck-oo.csv" "numberOfPrivateMethods + fanOut" "0.272249237528969" "0.296617672189917"
+
+mylyn top 2glm.nb model
+
+"1" "bug-metrics.csv" "numberOfMajorBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil." "2.04621326121203" "0.147848478516773"
+
+"1" "change-metrics.csv" "linesAddedUntil. + maxLinesAddedUntil." "2.04834461189525" "0.130284693036856"
+
+"1" "single-version-ck-oo.csv" "numberOfPrivateMethods + fanOut" "2.15286953208723" "0.274551976095921"
+
+pde top 2lm model
+
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil. + numberOfBugsFoundUntil." "0.344629068347733" "0.279085439608655"
+
+"1" "change-metrics.csv" "linesAddedUntil. + numberOfVersionsUntil." "0.382107645290974" "0.196813607475451"
+
+"1" "single-version-ck-oo.csv" "rfc + numberOfLinesOfCode" "0.351441694175662" "0.281036777001002"
+
+pde top 2rpart model
+
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil. + numberOfBugsFoundUntil." "0.339403827285441" "0.296567131490041"
+
+"1" "change-metrics.csv" "linesAddedUntil. + numberOfVersionsUntil." "0.357528183356252" "0.232091472948642"
+
+"1" "single-version-ck-oo.csv" "rfc + numberOfLinesOfCode" "0.357063097331845" "0.244171925885504"
+
+pde top 2glm.nb model
+
+"1" "bug-metrics.csv" "numberOfNonTrivialBugsFoundUntil. + numberOfBugsFoundUntil." "2.09490605317021" "0.296524746353685"
+
+"1" "change-metrics.csv" "linesAddedUntil. + numberOfVersionsUntil." "2.03552076021565" "0.264982916792596"
+
+"1" "single-version-ck-oo.csv" "rfc + numberOfLinesOfCode" "1.88576757831893" "0.282657405850161"
+
+eclipse top Alllm model
+
+"1" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "1.88576757831893" "0.282657405850161"
+
+"1" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "1.88576757831893" "0.282657405850161"
+
+eclipse top All lm model
+
+"1" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "1.88576757831893" "0.282657405850161"
+
+"1" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "1.88576757831893" "0.282657405850161"
+
+eclipse top All lm model
+
+"1" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "1.88576757831893" "0.282657405850161"
+
+"1" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "1.88576757831893" "0.282657405850161"
+
+eclipse top All lm model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "1.88576757831893" "0.282657405850161"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "1.88576757831893" "0.282657405850161"
+
+eclipse top All lm model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "1.88576757831893" "0.282657405850161"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "1.88576757831893" "0.282657405850161"
+
+eclipse top All lm model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.395496140984598" "0.459562365126546"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.398187542936858" "0.438852822614357"
+
+eclipse top All rpart model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.43702317277521" "0.470207856717305"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.434529917968724" "0.461196119693515"
+
+eclipse top All glm.nb model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "1.85056802624464" "0.449922977486014"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "1.87693004493702" "0.416245588283793"
+
+equinox top All lm model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.598081663231738" "0.650210739329381"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.624361500101991" "0.611032054408002"
+
+equinox top All rpart model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.65570399189636" "0.576805982899456"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.65136689992208" "0.574888184580009"
+
+equinox top All glm.nb model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "1.48743541235749" "0.629411797979659"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "1.48970209298342" "0.619744022311675"
+
+lucene top All lm model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.201951535069212" "0.305402333140233"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.192637749955547" "0.288701821513806"
+
+lucene top All rpart model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.179694501977716" "0.342120911210222"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.179756502703745" "0.338810223612429"
+
+lucene top All glm.nb model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "2.62344337325868" "0.276060074372327"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "2.64399604190627" "0.284859727354627"
+
+mylyn top All lm model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.265422364166608" "0.282860419538079"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.256105634739189" "0.263844252988571"
+
+mylyn top All rpart model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.27478737862081" "0.306261110965398"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.27318850037617" "0.288452066812177"
+
+mylyn top All glm.nb model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "2.11450880585409" "0.283177924917757"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "2.15889728264901" "0.271229380025441"
+
+pde top All lm model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.360294002328183" "0.24779315823087"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.344998329593217" "0.245184496439498"
+
+pde top All rpart model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "0.341171458156045" "0.293550956347835"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "0.345554189916238" "0.295986628884259"
+
+pde top All glm.nb model
+
+"1" "all files" "bugs ~ numberOfBugsFoundUntil. + linesAddedUntil. + wmc" "2.12384029775566" "0.324623641805564"
+
+"1" "all files" "bugs ~numberOfBugsFoundUntil. + numberOfNonTrivialBugsFoundUntil. + linesAddedUntil. + numberOfVersionsUntil. + wmc + numberOfLinesOfCode" "2.13616550864522" "0.311462616293044"
+
